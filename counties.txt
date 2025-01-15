@@ -1,0 +1,56 @@
+County Name     FIPS Code  Seat                 Population  Area
+Barbour         001        Philippi             15465       341 
+Berkeley        003        Martinsburg          122076      321 
+Boone           005        Madison              21809       503 
+Braxton         007        Sutton               12447       514 
+Brooke          009        Wellsburg            22559       89  
+Cabell          011        Huntington           94350       282 
+Calhoun         013        Grantsville          6229        281 
+Clay            015        Clay                 8051        342 
+Doddridge       017        West Union           7808        320 
+Fayette         019        Fayetteville         40488       664 
+Gilmer          021        Glenville            7408        340 
+Grant           023        Petersburg           10976       477 
+Greenbrier      025        Lewisburg            32977       1021
+Hampshire       027        Romney               23093       642 
+Hancock         029        New Cumberland       29095       83  
+Hardy           031        Moorefield           14299       583 
+Harrison        033        Clarksburg           65291       416 
+Jackson         035        Ripley               27791       466 
+Jefferson       037        Charles Town         57701       210 
+Kanawha         039        Charleston           180745      903 
+Lewis           041        Weston               17033       389 
+Lincoln         043        Hamlin               20463       438 
+Logan           045        Logan                32567       454 
+Marion          049        Fairmont             56205       310 
+Marshall        051        Moundsville          30591       307 
+Mason           053        Point Pleasant       25453       432 
+McDowell        047        Welch                19111       535 
+Mercer          055        Princeton            59664       420 
+Mineral         057        Keyser               26938       328 
+Mingo           059        Williamson           23568       423 
+Monongalia      061        Morgantown           105822      361 
+Monroe          063        Union                12376       473 
+Morgan          065        Berkeley Springs     17063       229 
+Nicholas        067        Summersville         24604       649 
+Ohio            069        Wheeling             42425       106 
+Pendleton       071        Franklin             6143        698 
+Pleasants       073        Saint Marys          7653        131 
+Pocahontas      075        Marlinton            7869        940 
+Preston         077        Kingwood             34216       648 
+Putnam          079        Winfield             57440       346 
+Raleigh         081        Beckley              74591       607 
+Randolph        083        Elkins               27932       1040
+Ritchie         085        Harrisville          8444        454 
+Roane           087        Spencer              14028       484 
+Summers         089        Hinton               11959       361 
+Taylor          091        Grafton              16705       173 
+Tucker          093        Parsons              6762        419 
+Tyler           095        Middlebourne         8313        258 
+Upshur          097        Buckhannon           23816       355 
+Wayne           099        Wayne                38982       506 
+Webster         101        Webster Springs      8378        556 
+Wetzel          103        New Martinsville     14442       359 
+Wirt            105        Elizabeth            5194        233 
+Wood            107        Parkersburg          84296       367 
+Wyoming         109        Pineville            21382       501 
