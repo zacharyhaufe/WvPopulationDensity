@@ -10,3 +10,6 @@ In this project, I utilize data structures in C to create functions including bu
 - <b>C</b> 
 - <b>XCode</b>
 - <b>MacOS</b>
+
+<h2>Please Note</h2>
+<b>The code I wrote is in the file: hw2_wvuep.c</b>
